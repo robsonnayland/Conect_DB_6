@@ -7,6 +7,6 @@ public class DbIntegrityException  extends RuntimeException{
 		super(msg);
 	} 
 	
-	
+	//end
 
 }

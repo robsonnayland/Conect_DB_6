@@ -21,7 +21,7 @@ public class Program {
 			
 			/*int x = 1;
 			if (x < 2) {
-				throw new SQLException("Error fake");
+				throw new SQLException("Error fake...");
 			}*/
 
 			int rows2 = st.executeUpdate("UPDATE seller SET BaseSalary = 3090 WHERE DepartmentId = 2 ");
